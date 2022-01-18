@@ -1,9 +1,9 @@
-import Error from "./errorSchema";
-import Image from "./imageSchema";
-import Inventory from "./inventorySchema";
-import Product from "./productSchema";
-import Variant from "./variantSchema";
-import Weight from "./weightSchema";
+const Error = require("./errorSchema");
+const Image = require("./imageSchema");
+const Inventory = require("./inventorySchema");
+const Product = require("./productSchema");
+const Variant = require("./variantSchema");
+const Weight = require("./weightSchema");
 
 module.exports = {
     Error: Error,
