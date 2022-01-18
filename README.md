@@ -57,7 +57,7 @@ This project organizes data from a given API (https://my-json-server.typicode.co
 
 * [Node](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
-* [Axios] (https://www.axios.com/)
+* [Axios](https://www.axios.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
