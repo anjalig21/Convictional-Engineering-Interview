@@ -107,16 +107,16 @@ Project Link: [https://github.com/anjalig21/Sorting-Visualizer](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/anjalig21/Sorting-Visualizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[forks-url]: https://github.com/anjalig21/Sorting-Visualizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[stars-url]: https://github.com/anjalig21/Sorting-Visualizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[issues-url]: https://github.com/anjalig21/Sorting-Visualizer/issues
-[license-shield]: https://img.shields.io/github/license/anjalig21/Sorting-Visualizer.svg?style=for-the-badge
-[license-url]: https://github.com/anjalig21/Sorting-Visualizer/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/anjalig21/Convictional-Engineering-Interview.svg?style=for-the-badge
+[contributors-url]: https://github.com/anjalig21/Convictional-Engineering-Interview/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/anjalig21/Convictional-Engineering-Interview.svg?style=for-the-badge
+[forks-url]: https://github.com/anjalig21/Convictional-Engineering-Interview/network/members
+[stars-shield]: https://img.shields.io/github/stars/anjalig21/Convictional-Engineering-Interview.svg?style=for-the-badge
+[stars-url]: https://github.com/anjalig21/Convictional-Engineering-Interview/stargazers
+[issues-shield]: https://img.shields.io/github/issues/anjalig21/Convictional-Engineering-Interview.svg?style=for-the-badge
+[issues-url]: https://github.com/anjalig21/Convictional-Engineering-Interview/issues
+[license-shield]: https://img.shields.io/github/license/anjalig21/Convictional-Engineering-Interview.svg?style=for-the-badge
+[license-url]: https://github.com/anjalig21/Convictional-Engineering-Interview/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/anjali-gupta21
 [product-screenshot]: images/screenshot.png
