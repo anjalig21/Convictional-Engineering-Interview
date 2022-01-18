@@ -89,10 +89,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- ASSUMPTIONS -->
 ## Assumptions
 
-- Press the 'A' key for an ascending visualization of the sort
-- Press the 'D' key for a descending visualization of the sort
-- Press the 'B' key for bubble sort
-- Press the 'I' key for insertion sort
+- Product's code was Id of product
+- Stock was the currency (amount)
+- Inventory Quantity is the number of inventory in a variant (which is always 1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
